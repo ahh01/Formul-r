@@ -18,7 +18,7 @@ body{
 }
 .yttrebox {
     background-color: #f9f9f9;
-    height: 840px;
+    height: 970px;
     width: 500px;
     padding:25px;
     margin: 10px;
@@ -64,7 +64,18 @@ h2{
     border-radius: 4px;
     color: #512b2b;
     margin-top: 30px;
+}
+.Användarnamn {
+    padding: 10px;
+}
 
+.Lösenord {
+    margin: 10px;
+}
+
+.BankID{
+    margin: 10px;
+    
 }
 header{
     background-color: #f7efe3;
